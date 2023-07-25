@@ -42,6 +42,19 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.JavaDateTimeFormatter">
+    <configuration name="Annotation_InJava (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Annotation_InJava" />
+      <module name="company" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Annotation_InJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Annotation_InJava" />
       <module name="company" />
@@ -110,10 +123,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.JavaDateTimeFormatter" />
+        <item itemvalue="Application.Annotation_InJava (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Annotation_InJava" />
         <item itemvalue="Application.Annotation_InJava (1)" />
-        <item itemvalue="Application.JavatimeAPIClassesAndMethods" />
       </list>
     </recent_temporary>
   </component>
