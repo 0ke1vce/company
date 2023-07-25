@@ -1,9 +1,28 @@
 package com.company;
+import java.util.*;
 public class Main{
     public static void main(String[] args){  //main method is the entry point to our application
 //        write code here
-        System.out.println("hello world!");
+//        System.out.println("hello world!");
+   Scanner sc=new Scanner(System.in);
+   int number_of_element_in_array=sc.nextInt();
+   int []arr=new int[number_of_element_in_array];
+   for (int i=0;i<number_of_element_in_array;i++){
+       arr[i]=sc.nextInt();
+   }
+        System.out.print("enter element to find: ");
+   int ele=sc.nextInt();
+   for(int j=0;j<arr.length;j++){
+       if (arr[j]==ele){
+           System.out.println("found in index: "+j);
+       }
+       else {
+           System.out.println("Element not found");
+       }
+   }
+
     }
+
 }
 
 
@@ -18,7 +37,7 @@ JVM=java virtual machine
 
 */
 
-//Anatomy of java program-: 1-DOcumentation section i.e comments
+//Anatomy of java program-: 1-Documentation section i.e comments
 //                            2- package statement--->optional
 //                            3-import statemet--->optional
 //                            4- interface  statememnt--->optional  5-Class statement--->optional
