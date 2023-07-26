@@ -65,7 +65,7 @@ public class AnonymousClassAndLambdaExpressions {
 
         //Using a lambda_expression
 LambDemo obj=(a)->{System.out.println("this is method 1 from lambda expression "+a);};
-        obj.meth1(69);
+        obj.meth1(69); 
 
 
 
