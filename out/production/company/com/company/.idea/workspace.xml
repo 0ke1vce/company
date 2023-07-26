@@ -41,7 +41,7 @@
       <recent name="com.company" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JavaDateTimeFormatter">
+  <component name="RunManager" selected="Application.AnonymousClassAndLambdaExpressions">
     <configuration name="Annotation_InJava (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Annotation_InJava" />
       <module name="company" />
@@ -68,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Annotation_InJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Annotation_InJava" />
+    <configuration name="AnonymousClassAndLambdaExpressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.AnonymousClassAndLambdaExpressions" />
       <module name="company" />
       <extension name="coverage">
         <pattern>
@@ -94,19 +94,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavatimeAPIClassesAndMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.JavatimeAPIClassesAndMethods" />
-      <module name="company" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="company" />
@@ -120,13 +107,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Practice_Set_Advance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Practice_Set_Advance" />
+      <module name="company" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnonymousClassAndLambdaExpressions" />
+        <item itemvalue="Application.Practice_Set_Advance" />
         <item itemvalue="Application.JavaDateTimeFormatter" />
         <item itemvalue="Application.Annotation_InJava (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Annotation_InJava" />
-        <item itemvalue="Application.Annotation_InJava (1)" />
       </list>
     </recent_temporary>
   </component>
