@@ -22,7 +22,6 @@ package com.company;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.Scanner;
 
 public class Practice_Set_Advance_2 {
     public static void main(String[] args) {
@@ -86,7 +85,34 @@ public class Practice_Set_Advance_2 {
 */
 //_________________________________________________________
 
+        //Question 5: Write a Java program to generate a multiplication  TABLE OF 2 TO 9 and write it to a file
 
+/* .
+        for (int i=2;i<10;i++){
 
+            File myFile=new File("C:\\Users\\patni\\Java tutorial\\java\\Introduction to java\\src\\com\\company\\tables\\table_of"+i+"_.txt");
+            try {
+                myFile.createNewFile();
+            }
+            catch (IOException e) {
+                throw new RuntimeException(e);
+            }
+        }
+
+        for (int k=2;k<10;k++) {
+            try {
+                FileWriter fwr = new FileWriter("C:\\Users\\patni\\Java tutorial\\java\\Introduction to java\\src\\com\\company\\tables\\table_of" + k + "_.txt");
+                fwr.write("table of: "+k);
+                for(int j=1;j<11;j++){
+                    fwr.write(k+"X"+j+"="+k*j);
+
+                }
+            }
+            catch (IOException e){
+                e.printStackTrace();
+            }
+
+        }
+ */
     }
 }

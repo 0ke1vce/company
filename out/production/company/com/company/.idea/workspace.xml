@@ -41,20 +41,7 @@
       <recent name="com.company" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileHandling">
-    <configuration name="AnonymousClassAndLambdaExpressions (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.AnonymousClassAndLambdaExpressions" />
-      <module name="company" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Practice_Set_Advance_2">
     <configuration name="AnonymousClassAndLambdaExpressions (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.AnonymousClassAndLambdaExpressions" />
       <module name="company" />
@@ -107,13 +94,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Practice_Set_Advance_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Practice_Set_Advance_2" />
+      <module name="company" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Practice_Set_Advance_2" />
         <item itemvalue="Application.FileHandling" />
         <item itemvalue="Application.GenericsInJava" />
         <item itemvalue="Application.AnonymousClassAndLambdaExpressions" />
         <item itemvalue="Application.AnonymousClassAndLambdaExpressions (2)" />
-        <item itemvalue="Application.AnonymousClassAndLambdaExpressions (1)" />
       </list>
     </recent_temporary>
   </component>
