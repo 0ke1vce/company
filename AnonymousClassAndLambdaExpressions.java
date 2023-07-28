@@ -13,6 +13,9 @@ class DemoLamb implements LambDemo{
 }
 */
 
+
+
+//_____________________________________________________________
 /*   .
 interface  DemoAno{
     public  void meth1();
@@ -32,9 +35,12 @@ interface  DemoAno{
         System.out.println("this is meth 2");
     }
 }*/
+//________________________________________________________________
 
 public class AnonymousClassAndLambdaExpressions {
     public static void main(String[] args) {
+
+        //_____________________________________________________________
            /*
    AnoDemo ad=new AnoDemo();  <--We don't need to do this if we want to use it once.
             ad.meth1();
@@ -56,7 +62,7 @@ public class AnonymousClassAndLambdaExpressions {
         obj.meth1();
         obj.meth2();
 */
-
+//____________________________________________________________________________
 
    /* .
        LambDemo obj=new DemoLamb();
