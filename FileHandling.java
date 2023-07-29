@@ -37,7 +37,7 @@ public class FileHandling {
         File myFile=new File("fileHandling.txt");
         try  {
             Scanner sc = new Scanner(myFile);
-            while (sc.hasNextLine()){
+            while (sc.hasNextLine()){    // <------returns true if and only if this scanner has another line of input
                 String line =sc.nextLine();
                 System.out.println(line);
             }
