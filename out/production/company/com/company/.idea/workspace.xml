@@ -41,8 +41,8 @@
       <recent name="com.company" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Practice_Set_Advance_2">
-    <configuration name="AnonymousClassAndLambdaExpressions (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Exersise_7_LibraryManagmentSystem">
+    <configuration name="AnonymousClassAndLambdaExpressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.AnonymousClassAndLambdaExpressions" />
       <module name="company" />
       <extension name="coverage">
@@ -55,8 +55,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnonymousClassAndLambdaExpressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.AnonymousClassAndLambdaExpressions" />
+    <configuration name="Exersise_7_LibraryManagmentSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Exersise_7_LibraryManagmentSystem" />
       <module name="company" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exersise_7_LibraryManagmentSystem" />
         <item itemvalue="Application.Practice_Set_Advance_2" />
         <item itemvalue="Application.FileHandling" />
         <item itemvalue="Application.GenericsInJava" />
         <item itemvalue="Application.AnonymousClassAndLambdaExpressions" />
-        <item itemvalue="Application.AnonymousClassAndLambdaExpressions (2)" />
       </list>
     </recent_temporary>
   </component>
