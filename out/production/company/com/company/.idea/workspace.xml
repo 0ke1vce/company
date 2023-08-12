@@ -23,6 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2SH6MngRAuj5haK2bHyNZip89Bu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,9 +44,9 @@
       <recent name="com.company" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exersise_7_LibraryManagmentSystem">
-    <configuration name="AnonymousClassAndLambdaExpressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.AnonymousClassAndLambdaExpressions" />
+  <component name="RunManager" selected="Application.Exersise2RockPaperScissor">
+    <configuration name="Exercise_7_LibraryManagementSystem (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Exercise_7_LibraryManagementSystem" />
       <module name="company" />
       <extension name="coverage">
         <pattern>
@@ -55,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exersise_7_LibraryManagmentSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Exersise_7_LibraryManagmentSystem" />
+    <configuration name="Exersise2RockPaperScissor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Exersise2RockPaperScissor" />
       <module name="company" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.FileHandling" />
+    <configuration name="Exersise_3_GuessTheNumberOops (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Exersise_3_GuessTheNumberOops" />
       <module name="company" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericsInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.GenericsInJava" />
+    <configuration name="Exersise_3_GuessTheNumberOops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Exersise_3_GuessTheNumberOops" />
       <module name="company" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice_Set_Advance_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Practice_Set_Advance_2" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="company" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exersise_7_LibraryManagmentSystem" />
-        <item itemvalue="Application.Practice_Set_Advance_2" />
-        <item itemvalue="Application.FileHandling" />
-        <item itemvalue="Application.GenericsInJava" />
-        <item itemvalue="Application.AnonymousClassAndLambdaExpressions" />
+        <item itemvalue="Application.Exersise2RockPaperScissor" />
+        <item itemvalue="Application.Exersise_3_GuessTheNumberOops" />
+        <item itemvalue="Application.Exersise_3_GuessTheNumberOops (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Exercise_7_LibraryManagementSystem (5)" />
       </list>
     </recent_temporary>
   </component>

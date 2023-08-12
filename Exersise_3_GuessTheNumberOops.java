@@ -10,7 +10,7 @@ package com.company;
 import java.util.Scanner;
 import java.util.Random;
 class Game{
-    private int  r;
+    private final int  r;
     private int i;
     private int number_of_guesses=0;
     Scanner sc=new Scanner(System.in);

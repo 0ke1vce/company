@@ -33,7 +33,7 @@ public class Exersise2RockPaperScissor {
                 System.out.println("its a tie");
                 i+=1;
             }
-            else if ((usr_choice==0 && comp_choice==1) || (usr_choice==1 && comp_choice==2) || (usr_choice==2 && comp_choice==0)) {
+            else if (usr_choice == 0 || usr_choice == 1 || usr_choice == 2) {
                 System.out.println("computer win");
                 comp_point+=1;
                 i+=1;
