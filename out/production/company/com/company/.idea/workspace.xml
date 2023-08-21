@@ -8,8 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a285731-54bd-4ffc-8b92-b5fb4309481c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise_7_LibraryManagementSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise_7_LibraryManagementSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PasswordManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice_Set_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Set_7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
