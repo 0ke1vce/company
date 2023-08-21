@@ -66,7 +66,7 @@ public class Exersise_3_GuessTheNumberOops {
 
     public static void main(String[] args) {
         System.out.println("game start");
-        Game guess_number=new Game();
+         Game guess_number=new Game();
         guess_number.isCorrectNumber();
         System.out.println("you guessed in "+guess_number.getNumber_of_guesses()+" guesses");
         guess_number.toWin();

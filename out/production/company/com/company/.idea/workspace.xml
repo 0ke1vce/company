@@ -7,7 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a285731-54bd-4ffc-8b92-b5fb4309481c" name="Changes" comment="" />
+    <list default="true" id="3a285731-54bd-4ffc-8b92-b5fb4309481c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise_7_LibraryManagementSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise_7_LibraryManagementSystem.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,9 +47,9 @@
       <recent name="com.company" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exersise2RockPaperScissor">
-    <configuration name="Exercise_7_LibraryManagementSystem (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Exercise_7_LibraryManagementSystem" />
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Calculator" />
       <module name="company" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Exersise2RockPaperScissor" />
         <item itemvalue="Application.Exersise_3_GuessTheNumberOops" />
         <item itemvalue="Application.Exersise_3_GuessTheNumberOops (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Exercise_7_LibraryManagementSystem (5)" />
       </list>
     </recent_temporary>
   </component>
