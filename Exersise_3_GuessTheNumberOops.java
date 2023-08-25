@@ -10,7 +10,9 @@ package com.company;
 import java.util.Scanner;
 import java.util.Random;
 class Game{
+    //final random number
     private final int  r;
+    //inputed number
     private int i;
     private int number_of_guesses=0;
     Scanner sc=new Scanner(System.in);
@@ -28,7 +30,7 @@ class Game{
     public void take_user_input() {
         System.out.print("please Enter your number: ");
         int input_number = sc.nextInt();
-        if (input_number>0&& input_number<101){
+        if(input_number>0&&input_number<101){
             i=input_number;
         }
         else {
@@ -42,10 +44,12 @@ class Game{
             if (i > r) {
                 System.out.println("number entered is greater");
                 number_of_guesses++;
-            } else if (i < r) {
+            }
+            else if (i < r) {
                 System.out.println("Number enter is smaller");
                 number_of_guesses++;
-            } else {
+            }
+            else {
                 System.out.println("you  entered correct number");
                 number_of_guesses++;
                 break;
