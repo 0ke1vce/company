@@ -8,8 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a285731-54bd-4ffc-8b92-b5fb4309481c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/patternQsCllge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/company/com/company/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/company/com/company/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayInJaVa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReverseANumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
       <recent name="com.company" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NumberGuess (1)">
+  <component name="RunManager" selected="Application.NumberGuess">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Calculator" />
       <module name="company" />
@@ -115,8 +115,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NumberGuess (1)" />
         <item itemvalue="Application.NumberGuess" />
+        <item itemvalue="Application.NumberGuess (1)" />
         <item itemvalue="Application.TempFile" />
         <item itemvalue="Application.PasswordManager" />
         <item itemvalue="Application.Calculator" />
