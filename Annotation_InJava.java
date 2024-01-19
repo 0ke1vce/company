@@ -1,5 +1,9 @@
 package com.company;
-
+public  class Annotation_InJava{
+    public static void main(String[] args) {
+        System.out.println("hello\n");
+    }
+}
 /*@FunctionalInterface
 interface  MyfunctionalInterface{
     //@FunctionalInterface Interface can contain only 1 method

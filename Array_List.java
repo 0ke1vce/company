@@ -14,6 +14,7 @@ public class Array_List {
        l1.add(0,7); //add 7 at 0th index
         System.out.println("Old l1");
         System.out.println(l1);
+
         System.out.println(l1.size());  //prints length of array
         System.out.println(l1.get(4));  //prints element of 4th index of array.
 

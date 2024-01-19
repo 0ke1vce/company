@@ -8,8 +8,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a285731-54bd-4ffc-8b92-b5fb4309481c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ArrayInJaVa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReverseANumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array_List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoWhileLoopInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/DoWhileLoopInJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FibbonaciSeriesInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/FibbonaciSeriesInJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoopInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/ForLoopInJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseANumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReverseANumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newjava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/company/com/company/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/company/com/company/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/company/com/company/ArrayInJaVa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/company/com/company/Array_List.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/company/com/company/Array_List.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/company/com/company/FibbonaciSeriesInJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/company/com/company/FibbonaciSeriesInJava.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/company/com/company/ForLoopInJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/company/com/company/ForLoopInJava.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/company/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/company/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patternQsCllge.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,15 +42,19 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2SH6MngRAuj5haK2bHyNZip89Bu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/patni/Java tutorial/java/Introduction to java/src/com/company&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/patni/IdeaProjects/Basics Of DSA&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
@@ -47,9 +63,9 @@
       <recent name="com.company" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NumberGuess">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Calculator" />
+  <component name="RunManager" selected="Application.CreatingOurOwnJavaClass">
+    <configuration name="Array_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Array_List" />
       <module name="company" />
       <extension name="coverage">
         <pattern>
@@ -61,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberGuess (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.NumberGuess" />
+    <configuration name="CreatingOurOwnJavaClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CreatingOurOwnJavaClass" />
       <module name="company" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberGuess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.NumberGuess" />
+    <configuration name="FibbonaciSeriesInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.FibbonaciSeriesInJava" />
       <module name="company" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PasswordManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.PasswordManager" />
+    <configuration name="HeartShape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.HeartShape" />
       <module name="company" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TempFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.TempFile" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="company" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NumberGuess" />
-        <item itemvalue="Application.NumberGuess (1)" />
-        <item itemvalue="Application.TempFile" />
-        <item itemvalue="Application.PasswordManager" />
-        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.CreatingOurOwnJavaClass" />
+        <item itemvalue="Application.HeartShape" />
+        <item itemvalue="Application.FibbonaciSeriesInJava" />
+        <item itemvalue="Application.Array_List" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -133,6 +149,9 @@
       <updated>1688791113729</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/company$PolyMorphisimInJAVA.ic" NAME="PolyMorphisimInJAVA Coverage Results" MODIFIED="1689001294795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

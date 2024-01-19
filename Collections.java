@@ -14,7 +14,7 @@ public class Collections {
 }
 
 
-/*Collections in java are available as class and interfaces Folling are few commonly used collections in java :
+/*Collections in java are available as class and interfaces Following are few commonly used collections in java :
 
 ArrayList -> For variables size collections
 Set -> For distinct collection

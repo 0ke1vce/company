@@ -22,7 +22,7 @@ public class CreatingOurOwnJavaClass {
         Employee ujjwal = new Employee(); // Instantiating a new Employee Object
         Employee john = new Employee(); // Instantiating a new Employee Object
 
-        // Setting Attributes for Harry
+        // Setting Attributes for ujjwal
         ujjwal.id = 12;
         ujjwal.salary = 34;
         ujjwal.name = "ke1vce";

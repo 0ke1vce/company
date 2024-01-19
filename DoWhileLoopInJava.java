@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class DoWhileLoopInJava {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-
+//do while loop is an exit control loop
         /* // do-while loop executes first and then check for condition  it get executes at least 1 time.
         int a=1;
         do {
